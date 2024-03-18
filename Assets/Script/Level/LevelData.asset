@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86d9c7bde03db946bdad041a6a1d22b, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levels:
+  - map: {fileID: 1191977379606522826, guid: afb3a78d32004d8499ecbd3b918d9aa6, type: 3}
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 2460400568196600364, guid: d32f09c1966e9a94ba0bfbe32f2924c7, type: 3}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 602259024078326468, guid: 66e432f22485f8242ad10a1a1115530d, type: 3}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 1403265375255942942, guid: 996a5034b567c7649a33517911b1fd1b, type: 3}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 3119582716866160612, guid: 219ea9cb8298af946a364500449e43b3, type: 3}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 2832368092218066160, guid: dd5a2ee30f61a7f4fa4a2a169a54b329, type: 3}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 3791945319994402711, guid: 1551989b87551a943b7f3281003d81f2, type: 3}
+    isCompleted: 0
+    isPlayable: 0
